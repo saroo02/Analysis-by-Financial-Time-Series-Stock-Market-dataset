@@ -1,4 +1,4 @@
-# 📈 Financial Time-Series (Stock Market) Dashboard Under POwer BI
+# 📈 Financial Time-Series (Stock Market) Dashboard Under Power BI
 
 This project presents an interactive **Financial Time-Series Dashboard** built using **Power BI** to analyze stock market trends, price movements, returns, and risk.
 
